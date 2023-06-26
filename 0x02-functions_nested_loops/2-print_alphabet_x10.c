@@ -14,4 +14,5 @@ void print_alphabet_x10(void)
 			_putchar(letter);
 		_putchar('\n');
 	}
+/*Write a function that prints 10 times the alphabet, in lowercase, followed by a new line*/
 }

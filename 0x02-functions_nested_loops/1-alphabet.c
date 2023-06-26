@@ -11,4 +11,5 @@ void print_alphabet(void)
 		_putchar(letter);
 
 	_putchar('\n');
+/* Write a function that prints the alphabet, in lowercase, followed by a new line */
 }

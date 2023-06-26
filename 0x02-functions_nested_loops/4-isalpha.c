@@ -13,4 +13,5 @@ int _isalpha(int c)
 		return (1);
 	else
 		return (0);
+/*Write a function that checks for alphabetic character*/
 }
